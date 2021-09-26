@@ -97,49 +97,53 @@ Waarschuwings streep is een onderbroken streep waar de strepen langer zijn dan o
 Verdrijvingsvlak vlak met schuine witte strepen waar je niet over mag rijden en geven aan een vermindering van rijstroken
 Tijdelijke verkeertekens op het wegdek zijn vaak gele strepen die tijdelijk aangeven waar de rijstroken lopen
 
-(77)
-
-
 	---------- Wegen ----------
 (81)
+Rode pijl betekend dat die richting moet stoppen om voorrang te geven.
 
+Dijkwegen zijn gevaarlijk door onoverzichtelijke bochten en uitwijken is zeer moeilijk. (94)
+Bergwegen zijn gevaarlijk door het dalen en stijgen en verraadelijk weer. (95)
+
+Als er een stuk groen als wegmarkering zit is het snel 100 km/h,
+als er een dubbele doorgestrokken steep met en stukje ruimte tussen de strepen zit is het een 80 km/h weg
+en als er geen streep zit tussen dan is het een 60 km/h weg. (107)
 
 	---------- Bijzondere weggedeelten ----------
+(112)
 
-
+Een Erf is een openbare weg maar je mag er maximaal 15 km/h rijden. (121)
 
 	---------- Gedrag bij kruispunten, voorrang, voor laten gaan ----------
 (138)
 
-
 	---------- Snelheid en afstand houden ----------
-
-
+(160)
+Volgafstand = (snelheid / 2) + 10% bijv. (80 / 2) + 10% = 44m (168)
+Reactieafstand = (snelheid / 4) + 10% bijv. (80 / 4) + 10% = 22m (171)
+Remweg = (snelheid / 10)^2 bijv. (80 / 10)^2 = 8 x 8 = 64m  (171)
+Stopafstand = Reactieafstand + Remweg (172)
 
 	---------- Andere weggebruikers ----------
-
-
-
+(174)
 	---------- Rijmannoeuvres ----------
-
-
+(184)
 
 	---------- Stilstaan, parkeren, file rijden, pech, slepen, gedrag bij ongevallen ----------
-
+(222)
 
 
 	---------- Communicatie, rijden met licht en in moeilijke weersomstandigheden ----------
-
+(252)
 
 
 	---------- Milieuaspecten ----------
-
+(274)
 
 
 	---------- Technische aspecten ----------
-
+(280)
 
 
 	---------- Verkeersborden en regels ----------
-
+(306)
 
