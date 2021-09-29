@@ -18,7 +18,7 @@ A is voor motorfietsen met onbeperkt vermogen. Vanaf minimaal 22 jaar en 2 jaar 
 
 Rijbewijs AM: (33)
 Bromfiets zoals fietsen met hulpmotor, snorfietsen, bromfietsen, bromscooters, brombakfietsen, brommobielen.
-Je hoeft geen examen hiervoor af te legeen als je A of B hebt.
+Je hoeft geen examen hiervoor af te leggen als je A of B hebt.
 
 Rijbewijs B: (33)
 Personenauto's en lichte bestelwagens.
@@ -33,11 +33,12 @@ Hiermee mag je zware bestelwagens en vrachtwagens die niet ingericht zijn voor h
 Met C1 mag je vrachtwagens besturen tussen 3500kg en 7500kg.
 
 Rijbewijs D: (34)
-Hiermee mag je voertuigen voor het vervoeren van meer dan 8 personen.
-Met D1 mag je niet meer dan 16 personen vervoeren.
+Hiermee mag je voertuigen voor het vervoeren van meer dan 8 personen, denk aan bussen.
+Met D1 mag je meer dan 8 maar niet meer dan 16 personen vervoeren. Verder mag deze bus niet langer zijn dan 8 meter.
 
 Rijbewijs E: (34)
 Dit is voor als je een aanhangwagen wil hebben met meer dan 750kg.
+Deze kan je halen met B, C  en D rijbewijzen
 
 Papieren
 Deel IA - Voertuigbewijs hierop staan technische gegevens van het voertuig vermeld zoals kenteken, merk, type, chassisnummer en gewicht. Dit is geldig voor de gehele levensduur van het voertuig.
@@ -84,7 +85,7 @@ Onderborden gelden over de verkeeresborden erboven en geeft aan waneer, voor wie
 3. Geslotenverklaringen (bepalen wie een weg niet in mag)
 4. Rijrichtingsborden (geven de rij richgting aan)
 5. Parkeer en stilstaan borden (deze regelen waar je wel of niet mag stilstaan of parkeren)
-6. Overige geboden en verboden (deze borden vertellen  je waar en wie je mag inhalen, juist niet mag inhalen of wanneer je tegenliggers voor meot laten gaan)
+6. Overige geboden en verboden (deze borden vertellen  je waar en wie je mag inhalen, juist niet mag inhalen of wanneer je tegenliggers voor moet laten gaan)
 7. Borden ter aanduiding van verkeersregels (deze duiden auto(snel)weg, erf, voetpad, fiets/bromfietspad of ruiterpad aan)
 8. Borden die aanduiden van bebouwde kom
 9. Waarschuwingsborden (wijzen op dreigend gevaar, zoals gevaarlijk of glad wegdek)
@@ -115,6 +116,15 @@ Een Erf is een openbare weg maar je mag er maximaal 15 km/h rijden. (121)
 
 	---------- Gedrag bij kruispunten, voorrang, voor laten gaan ----------
 (138)
+Rechts heeft voorrang op gelijkwaardige kruispunten.
+Als rechts een uitrit is dan heeft rechts geen voorrang.
+
+Rechtdoor gaand verkeer heeft voorrang op afslaand verkeer.
+En als 2 auto's beide afslaan, dan de auto die rechts afslaat heeft voorrang op de auto die links afslaat.
+
+Ook moet je voorrang verlenen aan auto's op verharde wegen als jij vanaf een onverharde weg komt.
+
+Trams hebben altijd voorrang zelfs als jij op een voorrangsweg rijdt.
 
 	---------- Snelheid en afstand houden ----------
 (160)
@@ -130,20 +140,23 @@ Stopafstand = Reactieafstand + Remweg (172)
 
 	---------- Stilstaan, parkeren, file rijden, pech, slepen, gedrag bij ongevallen ----------
 (222)
+Je mag op een suggestiestrook wel stilstaan, maar alleen als je geen gevaar of hinder veroorzaakt.
 
+Gedrag bij ongevallen: (239)
+	Persoonlijke veiligheid
+	Andere betrokkenen
+	Markeren van ongevalplaats
+	Alarmeer hulpdienst
+	Noodzakelijke eerste hulp
 
 	---------- Communicatie, rijden met licht en in moeilijke weersomstandigheden ----------
 (252)
 
-
 	---------- Milieuaspecten ----------
 (274)
-
 
 	---------- Technische aspecten ----------
 (280)
 
-
 	---------- Verkeersborden en regels ----------
 (306)
-
