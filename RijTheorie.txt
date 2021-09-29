@@ -160,3 +160,39 @@ Gedrag bij ongevallen: (239)
 
 	---------- Verkeersborden en regels ----------
 (306)
+Snelheidsborden
+Ronde met een rode ring met een nummer binnen in is maximale snelheid.
+Vierkante blauwe zijn voor advies snelheid.
+
+Voorrangsborden
+Driehoek geeft voorrang kruispunten aan.
+omgekeerde driehoek geeft aan dat je voorrang moet geven.
+
+Geslotenverklaringen 
+Ronde borden met een rode ring met een afbeelding geven aan voor wie niet mag betreden.
+Vierkante blauwe borden met een pijl geeft de rijrichting aan.
+
+Rijrichtingsborden
+Ronde blauwe borden met pijl(en) geven de rijrichting aan.
+
+Parkeer en stilstaan borden
+Blauwe borden met een P geven aan wie, waar en hoe je moet parkeren.
+Ronde borden met rode ring en blauw midden gevven aan dat je niet mag parkeren of stilstaan.
+
+Overige geboden en verboden
+Ronde borden met een rode ring en afbeelding van auto's of vrachtwagens. Het type voertuig in rood mag niet inhalen.
+
+Borden ter aanduiding van verkeersregels
+Blauwe borden met of zonder rode streep erdoor. De rode streept einde van het bord.
+
+Borden die aanduiden van bebouwde kom
+Blauwe borden met een naam erop.
+
+Waarschuwingsborden
+Driehoek met een rode rand geven mogelijke gevaarlijke situaties aan.
+
+Bewegwijzeringsborden
+Blauwe borden met pijlen die een richting aangeven.
+
+Informatieborden
+Borden die extra informatie geven over zoals rijstroken, zones, aanduidingen, hectometer.
